@@ -1,16 +1,21 @@
 [{
   "id": 1,
-  "name": "angel food cake"
+  "name": "angel food cake",
+  "emoji": "🍰"
 }, {
   "id": 2,
-  "name": "carrot cake"
+  "name": "carrot cake",
+  "emoji": "🍰"
 }, {
   "id": 3,
-  "name": "chocolate cake"
+  "name": "chocolate cake",
+  "emoji": "🍰"
 }, {
   "id": 4,
-  "name": "red velvet cake"
+  "name": "red velvet cake",
+  "emoji": "🍰"
 }, {
   "id": 5,
-  "name": "pound cake"
+  "name": "pound cake",
+  "emoji": "🍰"
 }]
